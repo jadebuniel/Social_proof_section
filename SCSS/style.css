@@ -187,6 +187,7 @@ body {
 .ratings_text {
   display: block;
   font-size: 1rem;
+  color: #502050;
   -webkit-transform: translateY(133%);
   transform: translateY(133%);
 }
