@@ -208,6 +208,7 @@ body {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    justify-content: space-between;
     gap: 1rem;
     min-width: 57rem;
     -webkit-box-pack: center;
